@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
- ![DCD](https://user-images.githubusercontent.com/53809748/124566725-f135e580-de60-11eb-9766-104a6611af10.jpeg)
+ ![image](https://user-images.githubusercontent.com/53809748/124566725-f135e580-de60-11eb-9766-104a6611af10.jpeg)
  <h3>
 👋 Hey, I am Devang Dayal, a B.Tech CSE Student at Vellore Institute of Technology.
 
