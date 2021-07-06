@@ -53,3 +53,14 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 </div>
+
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/devangdayal/devangdayal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devangdayal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+<br>
+<a href="https://github.com/devangdayal/Facial-Recognition-Prosopagnosia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devangdayal&repo=Facial-Recognition-Prosopagnosia&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
