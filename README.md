@@ -1,34 +1,25 @@
-### Hi there 👋
+## Welcome to My GitHub Page <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**devangdayal/devangdayal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div align="center">
- ![image](https://user-images.githubusercontent.com/53809748/124566725-f135e580-de60-11eb-9766-104a6611af10.jpeg)
- <h3>
-👋 Hey, I am Devang Dayal, a B.Tech CSE Student at Vellore Institute of Technology.
-
-💻 I love to explore the boundless world of Computer Science and its application. I am learning and working on Artificial Intelligence and Data Science Projects.
-
-😊 Keen to work in a team and taking on new Opportunities and Challenges. 
-
-🌳 Willing to Help People and the World in some ways.
-
-😄 Aspired to work and learn from Great People.
-  </h3>
- 
+  <img  src="images/DCD.jpeg" alt="DevangDayal" class="rounded" width=400px></img>
 </div>
-  
-  
+
+## What Am I Upto ?
+
+<div>
+ <font face="Open Sans">
+ <h3>
+  <p>👋 Hey, I am Devang Dayal, a B.Tech CSE Student at Vellore Institute of Technology.</p>
+  <p>💻 I love to explore the boundless world of Computer Science and its application.</p>
+  <p>💬 I am learning and working on Artificial Intelligence and Data Science Projects.</p>
+  <p>😊 Keen to work in a team and taking on new Opportunities and Challenges. </p>
+  <p>🌳 Willing to Help People and the World in some ways.</p>
+  <p>😄 Aspired to work and learn from Great People.</p>
+<br>  
+ </h3>
+ </font>
+</div>
+
+## Connect Me At
+
