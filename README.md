@@ -58,9 +58,13 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/devangdayal/devangdayal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devangdayal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devangdayal&show_icons=true&line_height=27&count_private=true&title_color=ff0000&text_color=000000&icon_color=2bbc8a&bg_color=ffffff" alt="Martin's GitHub Stats" />
 </a>
 <br>
 <a href="https://github.com/devangdayal/Facial-Recognition-Prosopagnosia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devangdayal&repo=Facial-Recognition-Prosopagnosia&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devangdayal&repo=Facial-Recognition-Prosopagnosia&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=5760FF" />
+</a>
+<br>
+<a href="https://github.com/devangdayal/Data-Structures-Algorithm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devangdayal&repo=Data-Structures-Algorithm&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=FF5757" />
 </a>
