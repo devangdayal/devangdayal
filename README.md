@@ -66,5 +66,5 @@
 </a>
 <br>
 <a href="https://github.com/devangdayal/Data-Structures-Algorithm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devangdayal&repo=Data-Structures-Algorithm&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=FF5757" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devangdayal&repo=Data-Structures-Algorithm&title_color=000000&text_color=000000&icon_color=2bbc8a&bg_color=8EFFBA" />
 </a>
