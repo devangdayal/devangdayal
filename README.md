@@ -2,7 +2,7 @@
 
 <!---<img src="https://img.shields.io/badge/DevangDayal-043EFB?style=for-the-badge&logo=DevangDayal&logoColor=white" alt="devangdayal"/>-->
 <div align="center">
-  <img  src="images/DCD.jpeg" alt="DevangDayal" class="rounded" width=400px></img>
+  <img  src="images/DCD_Curved.png" alt="DevangDayal" class="rounded" width=400px></img>
 </div>
 
 ## What Am I Upto ?
