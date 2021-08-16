@@ -61,10 +61,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devangdayal&show_icons=true&line_height=27&count_private=true&title_color=ff0000&text_color=000000&icon_color=2bbc8a&bg_color=ffffff" alt="Martin's GitHub Stats" />
 </a>
 <br>
+<div padding=10px>
 <a href="https://github.com/devangdayal/Facial-Recognition-Prosopagnosia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devangdayal&repo=Facial-Recognition-Prosopagnosia&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=5760FF" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devangdayal&repo=Facial-Recognition-Prosopagnosia&title_color=000000&text_color=000000&icon_color=F1948A&bg_color=FADBD8" />
 </a>
-<br>
-<a href="https://github.com/devangdayal/Data-Structures-Algorithm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devangdayal&repo=Data-Structures-Algorithm&title_color=000000&text_color=000000&icon_color=2bbc8a&bg_color=8EFFBA" />
+  <a href="https://github.com/devangdayal/Data-Structures-Algorithm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devangdayal&repo=Climate-Change-Analysis&title_color=000000&text_color=000000&icon_color=F1948A&bg_color=D2B4DE" />
 </a>
+ <a href="https://github.com/devangdayal/Data-Structures-Algorithm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devangdayal&repo=Data-Structures-Algorithm&title_color=000000&text_color=000000&icon_color=F1948A&bg_color=8EFFBA" />
+</a>
+
+</div>
