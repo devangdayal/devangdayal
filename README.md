@@ -9,36 +9,29 @@
 
 <div>
  <font face="Open Sans">
- <h3>
+ <h4>
   <p>👋 Hey, I am Devang Dayal, a B.Tech CSE Student at Vellore Institute of Technology.</p>
   <p>💻 I love to explore the boundless world of Computer Science and its application.</p>
   <p>💬 I am learning and working on Artificial Intelligence and Data Science Projects.</p>
   <p>😊 Keen to work in a team and taking on new Opportunities and Challenges. </p>
   <p>🌳 Willing to Help People and the World in some ways.</p>
   <p>😄 Aspired to work and learn from Great People.</p>
+  <p>📧 Mail me At  <u><em> devangdayal@gmail.com  </em> </u></p>
 
 <br>  
- </h3>
+ </h4>
  </font>
 </div>
 
 ## 📱 Connect Me At
 <div>
-  
-  <p><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />   👉🏻 <b><em> devangdayal@gmail.com  </p>
-   <p> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />  👉🏻 <a href="https://github.com/devangdayal"> @devangdayal</a></p>
-  
-  <p> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 👉🏻 <a href="https://linkedin.com/in/devangdayal/"> @devangdayal</a></p>
-  
-  <p><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=whit" /> 👉🏻 <a href="https://medium.com/@devangdayal"> @devangdayal </a></p>
-  <p> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> 👉🏻 <a href="https://twitter.com/devangdayal"> @devangdayal</a></p>
-  
- 
+ <a href="https://github.com/devangdayal"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+ <a href="https://linkedin.com/in/devangdayal/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
+ <a href="https://medium.com/@devangdayal"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a>
+ <a href="https://twitter.com/devangdayal"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+ <a href="https://stackoverflow.com/users/16758661/devang-dayal?tab=profile"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>   
+ <a href="https://www.hackerrank.com/devangdayal?hr_r=1"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a> 
 
-  <p><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /> 👉🏻 <a href="https://stackoverflow.com/users/16758661/devang-dayal?tab=profile"> @devangdayal</a> </p>
-  
-  <p><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> 👉🏻 <a href="https://www.hackerrank.com/devangdayal?hr_r=1"> @devangdayal</a> </em></b> </p>
-  
 </div>
 
 
@@ -63,6 +56,11 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 </div>
+
+## Medium Stories
+
+<a target="_blank" href=" https://github-readme-medium-recent-article.vercel.app/medium/@devangdayal/0">
+ <img src="https://github-readme-medium-recent-article.vercel.app/medium/@devangdayal/0" alt="Recent article #1"/></a>
 
 
 ## &#x1f4c8; GitHub Stats
