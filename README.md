@@ -5,7 +5,7 @@
   <img  src="images/DCD_Curved.png" alt="DevangDayal" class="rounded" width=400px></img>
 </div>
 
-## What Am I Upto ?
+## 👩‍💻 What Am I Upto ?
 
 <div>
  <font face="Open Sans">
@@ -22,7 +22,7 @@
  </font>
 </div>
 
-## Connect Me At
+## 📱 Connect Me At
 <div>
   
   <p><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />   👉🏻 <b><em> devangdayal@gmail.com  </p>
