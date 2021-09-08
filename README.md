@@ -57,12 +57,6 @@
 
 </div>
 
-## Medium Stories
-
-<a target="_blank" href=" https://github-readme-medium-recent-article.vercel.app/medium/@devangdayal/0">
- <img src="https://github-readme-medium-recent-article.vercel.app/medium/@devangdayal/0" alt="Recent article #1"/></a>
-
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/devangdayal/devangdayal">
