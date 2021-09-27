@@ -68,7 +68,7 @@
 <a href="https://github.com/devangdayal/Facial-Recognition-Prosopagnosia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devangdayal&repo=Facial-Recognition-Prosopagnosia&title_color=000000&text_color=000000&icon_color=F1948A&bg_color=FADBD8" />
 </a>
-  <a href="https://github.com/devangdayal/Data-Structures-Algorithm">
+  <a href="https://github.com/devangdayal/Climate-Change-Analysis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devangdayal&repo=Climate-Change-Analysis&title_color=000000&text_color=000000&icon_color=E5E7E9&bg_color=D2B4DE" />
 </a>
  <a href="https://github.com/devangdayal/Data-Structures-Algorithm">
