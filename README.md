@@ -71,8 +71,8 @@
 <a href="https://github.com/devangdayal/Facial-Recognition-Prosopagnosia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devangdayal&repo=Facial-Recognition-Prosopagnosia&title_color=000000&text_color=000000&icon_color=F1948A&bg_color=FADBD8" />
 </a>
- <a href="https://github.com/devangdayal/Data-Structures-Algorithm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devangdayal&repo=Data-Structures-Algorithm&title_color=000000&text_color=000000&icon_color=F1948A&bg_color=8EFFBA" />
+ <a href="https://github.com/devangdayal/Streamlit-AppleStock">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devangdayal&repo=Streamlit-AppleStock&title_color=000000&text_color=000000&icon_color=F1948A&bg_color=8EFFBA" />
 </a>
 
 </div>
