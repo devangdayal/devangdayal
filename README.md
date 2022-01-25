@@ -17,6 +17,7 @@
   <p>🌳 Willing to Help People and the World in some ways.</p>
   <p>😄 Aspired to work and learn from Great People.</p>
   <p>📧 Mail me At  <u><em> devangdayal@gmail.com  </em> </u></p>
+  <p>📧 Download my Resume at : <a href="https://drive.google.com/file/d/1qYD-BMEPzCEI-JV93ugahmmwzSFheMSk/view?usp=sharing" alt="DevangDayal">Devang's Resume</a>
 
 <br>  
  </h4>
