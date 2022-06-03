@@ -1,4 +1,4 @@
-## Welcome to My GitHub Page <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Welcome to My GitHub Page <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30>
 
 <!---<img src="https://img.shields.io/badge/DevangDayal-043EFB?style=for-the-badge&logo=DevangDayal&logoColor=white" alt="devangdayal"/>-->
 <div align="center">
