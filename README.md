@@ -61,18 +61,18 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/devangdayal/devangdayal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devangdayal&show_icons=true&line_height=27&count_private=true&title_color=ff0000&text_color=000000&icon_color=2bbc8a&bg_color=ffffff" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=devangdayal&show_icons=true&line_height=27&count_private=true&title_color=ff0000&text_color=000000&icon_color=2bbc8a&bg_color=ffffff" alt="Martin's GitHub Stats" />
 </a>
 <br>
 <div padding=10px>
 <a href="https://github.com/devangdayal/Climate-Change-Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devangdayal&repo=Climate-Change-Analysis&title_color=000000&text_color=000000&icon_color=E5E7E9&bg_color=D2B4DE" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devangdayal&repo=Climate-Change-Analysis&title_color=000000&text_color=000000&icon_color=E5E7E9&bg_color=D2B4DE" />
 </a>
 <a href="https://github.com/devangdayal/Facial-Recognition-Prosopagnosia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devangdayal&repo=Facial-Recognition-Prosopagnosia&title_color=000000&text_color=000000&icon_color=F1948A&bg_color=FADBD8" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devangdayal&repo=Facial-Recognition-Prosopagnosia&title_color=000000&text_color=000000&icon_color=F1948A&bg_color=FADBD8" />
 </a>
  <a href="https://github.com/devangdayal/Streamlit-AppleStock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devangdayal&repo=Streamlit-AppleStock&title_color=000000&text_color=000000&icon_color=F1948A&bg_color=8EFFBA" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devangdayal&repo=Streamlit-AppleStock&title_color=000000&text_color=000000&icon_color=F1948A&bg_color=8EFFBA" />
 </a>
 
 </div>
