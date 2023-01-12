@@ -17,7 +17,7 @@
    <p>🌳 Willing to Help People and the World in some ways.</p>
    <p>💻 My Portfolio Website is available @<a href="https://devang-portfolio-website.web.app/" alt="DevangDayal">Devang's Portfolio</a> </p>
    <p>📧 Mail me At  <u><em> devangdayal@gmail.com  </em> </u></p>
-   <p>📧 Download my Resume at : <a href="https://drive.google.com/file/d/1coN5tZN9PIdn9vonR2NfcoRQJiOpY8_0/view?usp=sharing" alt="DevangDayal">Devang's Resume</a></p>
+   <p>📧 Download my Resume at : <a href="https://drive.google.com/file/d/17Qo3iVm75g97dSFmACCSXGLo78ecC91x/view?usp=sharing" alt="DevangDayal">Devang's Resume</a></p>
 <br>  
  </h4>
  </font>
