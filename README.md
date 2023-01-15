@@ -61,8 +61,12 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/devangdayal/devangdayal">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=devangdayal&show_icons=true&line_height=27&count_private=true&title_color=ff0000&text_color=000000&icon_color=2bbc8a&bg_color=ffffff" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=devangdayal&show_icons=true&line_height=27&count_private=true&title_color=ff0000&text_color=000000&icon_color=2bbc8a&bg_color=ffffff" alt="Devang's Stat" />
 </a>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devangdayal&layout=compact)]([https://github.com/devangdayal/github-readme-stats](https://github.com/devangdayal))
+
 <br>
 <div padding=10px>
 <a href="https://github.com/devangdayal/Climate-Change-Analysis">
