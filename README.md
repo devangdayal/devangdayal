@@ -3,6 +3,8 @@
 <!---<img src="https://img.shields.io/badge/DevangDayal-043EFB?style=for-the-badge&logo=DevangDayal&logoColor=white" alt="devangdayal"/>-->
 <div align="center">
   <img  src="images/DCD_Curved.png" alt="DevangDayal" class="rounded" width=400px></img>
+  
+ <b> | CSE Student @ VIT ‘23 | ASDE-1 @ Publicis Sapients | </b>
 </div>
 
 ## 👩‍💻 What Am I Upto ?
@@ -10,12 +12,21 @@
 <div>
  <font face="Open Sans">
  <h4>
-   <p>👋 Hey, I am Devang Dayal, a B.Tech CSE Student at Vellore Institute of Technology.</p>
-   <p>💻 I love to explore the boundless world of Computer Science and its application.</p>
-   <p>💬 Developed Project and worked on Artificial Intelligence and Data Science Projects.</p>
-   <p>😊 Keen to work in a team and taking on new Opportunities and Challenges. </p>
-   <p>🌳 Willing to Help People and the World in some ways.</p>
-   <p>💻 My Portfolio Website is available @<a href="https://devang-portfolio-website.web.app/" alt="DevangDayal">Devang's Portfolio</a> </p>
+   <p>
+   👋 Hey, I am Devang Dayal, As an aspiring Software Development Professional with a background in AI and Data Science, I am passionate about leveraging technology to solve complex problems and create innovative solutions. Throughout my academic career, I have worked on several AI and Data Science projects, which has given me a solid foundation in these cutting-edge technologies.
+   </p>
+<p>
+Currently, I am a B.Tech CSE final year student and have recently secured a position as an ASDE 1 at Publicis Sapient. 
+  </p>
+<p>
+I am always eager to learn and explore new ideas, and I believe that collaboration and teamwork are essential to achieving success in any project. In my spare time, I enjoy reading about the latest developments in technology, playing video games, and exploring the great outdoors.
+</p>
+<p>
+If you are interested in connecting and discussing software development, AI, Data Science or any other technology-related topics, please don't hesitate to reach out!
+  </p>
+<p>
+💻 Portfolio Website is available: https://devang-portfolio-website.web.app/
+   
    <p>📧 Mail me At  <u><em> devangdayal@gmail.com  </em> </u></p>
    <p>📧 Download my Resume at : <a href="https://drive.google.com/file/d/17Qo3iVm75g97dSFmACCSXGLo78ecC91x/view?usp=sharing" alt="DevangDayal">Devang's Resume</a></p>
 <br>  
