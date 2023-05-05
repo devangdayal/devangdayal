@@ -71,9 +71,9 @@
 <div padding=10px>
 
 <a href="https://github.com/devangdayal/TSF-Crypto-Price">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devangdayal&repo=TSF-Crypto-Price&title_color=000000&text_color=000000&icon_color=F1948A&bg_color=8EFFBA" />
-</a>
-
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devangdayal&repo=TSF-Crypto-Price&title_color=000000&text_color=000000&icon_color=E5E7E9&bg_color=8996FF" />
+</a>  
+  
 <a href="https://github.com/devangdayal/Streamlit-AppleStock">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devangdayal&repo=Streamlit-AppleStock&title_color=000000&text_color=000000&icon_color=F1948A&bg_color=8EFFBA" />
 </a>
