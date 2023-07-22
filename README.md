@@ -28,7 +28,7 @@ If you are interested in connecting and discussing software development, AI, Dat
 💻 Portfolio Website is available: https://devang-portfolio-website.web.app/
    
    <p>📧 Mail me At  <u><em> devangdayal@gmail.com  </em> </u></p>
-   <p>📧 Download my Resume at : <a href="https://drive.google.com/file/d/17Qo3iVm75g97dSFmACCSXGLo78ecC91x/view?usp=sharing" alt="DevangDayal">Devang's Resume</a></p>
+   <p>📧 Download my Resume at : <a href="https://drive.google.com/file/d/1VCgxE9lll1GJN4wQfQF9_7d_w3KiKHfQ/view?usp=drive_link" alt="DevangDayal">Devang's Resume</a></p>
 <br>  
  </h4>
  </font>
