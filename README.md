@@ -4,7 +4,7 @@
 <div align="center">
   <img  src="images/DCD_Curved.png" alt="DevangDayal" class="rounded" width=400px></img>
   
- <b> | CSE Student @ VIT ‘23 | ASDE-1 @ Publicis Sapients | </b>
+ <b> | CSE Student @ VIT ‘23 | </b>
 </div>
 
 ## 👩‍💻 What Am I Upto ?
