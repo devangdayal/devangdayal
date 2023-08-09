@@ -1,38 +1,26 @@
-## Welcome to My GitHub Page <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30>
+# Hey! I'm Devang Dayal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30>
 
-<!---<img src="https://img.shields.io/badge/DevangDayal-043EFB?style=for-the-badge&logo=DevangDayal&logoColor=white" alt="devangdayal"/>-->
-<div align="center">
-  <img  src="images/DCD_Curved.png" alt="DevangDayal" class="rounded" width=400px></img>
+## 👩‍💻 What Am I Upto?
+<div align="justify"> 
+Hey! I'm Devang Dayal, a B.Tech CSE graduate from Vellore Institute of Technology (VIT). My academic journey has solidified my core competencies in Problem Solving and Software Engineering. I possess a profound interest in harnessing the potential of Artificial Intelligence to tackle real-world complexities. <br>
+My quest for knowledge extends to diverse realms of development, and I am currently immersed in the dynamic landscape of full-stack application development. As I enhance my problem-solving acumen, I've successfully navigated through <b>350+</b> challenges on esteemed platforms such as LeetCode, Hackerrank, and CodeChef, with my tally continuously growing.
+</div>
+<div align="justify"><br>
   
- <b> | CSE Student @ VIT ‘23 | </b>
-</div>
+<b> We can connect and talk about Zombie Apocalypse! </b>
+<br> 
+<p>
+  
+  -  💻 Portfolio Website is available: https://devang-portfolio-website.web.app/
 
-## 👩‍💻 What Am I Upto ?
-
-<div>
- <font face="Open Sans">
- <h4>
-   <p>
-   👋 Hey, I am Devang Dayal, As an aspiring Software Development Professional with a background in AI and Data Science, I am passionate about leveraging technology to solve complex problems and create innovative solutions. Throughout my academic career, I have worked on several AI and Data Science projects, which has given me a solid foundation in these cutting-edge technologies.
-   </p>
-<p>
-Currently, I am a B.Tech CSE final year student and have recently secured a position as an ASDE 1 at Publicis Sapient. 
-  </p>
-<p>
-I am always eager to learn and explore new ideas, and I believe that collaboration and teamwork are essential to achieving success in any project. In my spare time, I enjoy reading about the latest developments in technology, playing video games, and exploring the great outdoors.
-</p>
-<p>
-If you are interested in connecting and discussing software development, AI, Data Science or any other technology-related topics, please don't hesitate to reach out!
-  </p>
-<p>
-💻 Portfolio Website is available: https://devang-portfolio-website.web.app/
-   
-   <p>📧 Mail me At  <u><em> devangdayal@gmail.com  </em> </u></p>
-   <p>📧 Download my Resume at : <a href="https://drive.google.com/file/d/1VCgxE9lll1GJN4wQfQF9_7d_w3KiKHfQ/view?usp=drive_link" alt="DevangDayal">Devang's Resume</a></p>
+  -  📧 Mail me At  <u><b> devangdayal@gmail.com  </b>
+  
+  -  📧 Download my Resume at : <a href="https://drive.google.com/file/d/1VCgxE9lll1GJN4wQfQF9_7d_w3KiKHfQ/view?usp=drive_link" alt="DevangDayal">Devang's Resume</a>
+  
 <br>  
- </h4>
- </font>
+</p>
 </div>
+
 
 ## 📱 Connect Me At
 <div>
