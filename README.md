@@ -21,8 +21,8 @@ My quest for knowledge extends to diverse realms of development, and I am curren
 </p>
 </div>
 
-
 ## 📱 Connect Me At
+<br>
 <div align="center">
  <a href="https://github.com/devangdayal"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
  <a href="https://linkedin.com/in/devangdayal/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
@@ -33,9 +33,8 @@ My quest for knowledge extends to diverse realms of development, and I am curren
 
 </div>
 
-
 ## 🔧 Technologies & Tools
-
+ <br>
 <div align="center">
  
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
@@ -90,7 +89,7 @@ My quest for knowledge extends to diverse realms of development, and I am curren
 -->
 
 ## &#x1f4c8; GitHub Stats
-
+<br>
 <a href="https://github.com/devangdayal/">
 	
   ![Devang's GitHub stats](https://github-readme-stats.vercel.app/api?username=devangdayal\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
