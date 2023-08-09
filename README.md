@@ -1,10 +1,10 @@
 # Hey! I'm Devang Dayal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30>
 
 ## 👩‍💻 What Am I Upto?
-<div align="justify"> 
-Hey! I'm Devang Dayal, a B.Tech CSE graduate from Vellore Institute of Technology (VIT). My academic journey has solidified my core competencies in Problem Solving and Software Engineering. I possess a profound interest in harnessing the potential of Artificial Intelligence to tackle real-world complexities. <br>
+<div align="justify"><br> 
+Hey! I'm <b>Devang Dayal</b>, a <b>B.Tech Computer Science graduate from Vellore Institute of Technology (VIT)</b>. My academic journey has solidified my core competencies in Problem Solving and Software Engineering. I possess a profound interest in harnessing the potential of Artificial Intelligence to tackle real-world complexities. <br>
 My quest for knowledge extends to diverse realms of development, and I am currently immersed in the dynamic landscape of full-stack application development. As I enhance my problem-solving acumen, I've successfully navigated through <b>350+</b> challenges on esteemed platforms such as LeetCode, Hackerrank, and CodeChef, with my tally continuously growing.
-</div>
+</div> 
 <div align="justify"><br>
   
 <b> We can connect and talk about Zombie Apocalypse! </b>
@@ -92,11 +92,14 @@ My quest for knowledge extends to diverse realms of development, and I am curren
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/devangdayal/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devangdayal&theme=vue-dark&show_icons=true" />
+	
+  ![Devang's GitHub stats](https://github-readme-stats.vercel.app/api?username=devangdayal\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+  
 </a>
 <a href="https://github.com/devangdayal">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devangdayal&layout=compact&langs_count=8&card_width=320" />
 </a>
+<br>
 
 
 [![Devang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devangdayal&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
