@@ -59,38 +59,23 @@ My quest for knowledge extends to diverse realms of development, and I am curren
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/devangdayal/devangdayal">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=devangdayal&show_icons=true&line_height=27&count_private=true&title_color=ff0000&text_color=000000&icon_color=2bbc8a&bg_color=ffffff" alt="Devang's Stat" />
-</a>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devangdayal&layout=compact)]([https://github.com/devangdayal/github-readme-stats](https://github.com/devangdayal))
-
-<br>
-<div padding=10px>
-
-<a href="https://github.com/devangdayal/TSF-Crypto-Price">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devangdayal&repo=TSF-Crypto-Price&title_color=000000&text_color=000000&icon_color=E5E7E9&bg_color=8996FF" />
-</a>  
-
-
-
-<a href="https://github.com/devangdayal/Facial-Recognition-Prosopagnosia">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devangdayal&repo=Facial-Recognition-Prosopagnosia&title_color=000000&text_color=000000&icon_color=F1948A&bg_color=FADBD8" />
-</a>
- 
-
-<a href="https://github.com/devangdayal/Climate-Change-Analysis">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devangdayal&repo=Climate-Change-Analysis&title_color=000000&text_color=000000&icon_color=E5E7E9&bg_color=D2B4DE" />
+<a href="https://github.com/devangdayal">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devangdayal\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff"/>
 </a>
 
 
-<a href="https://github.com/devangdayal/Streamlit-AppleStock">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=devangdayal&repo=Streamlit-AppleStock&title_color=000000&text_color=000000&icon_color=F1948A&bg_color=8EFFBA" />
+<a href="https://github.com/devangdayal/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devangdayal&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
 
-</div>
 
+![Devang's GitHub stats](https://github-readme-stats.vercel.app/api?username=devangdayal\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devangdayal&layout=compact)
+
+
+
+  
 
