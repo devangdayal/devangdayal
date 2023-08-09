@@ -3,7 +3,7 @@
 ## 👩‍💻 What Am I Upto?
 <div align="justify"><br> 
 Hey! I'm <b>Devang Dayal</b>, a <b>B.Tech Computer Science graduate from Vellore Institute of Technology (VIT)</b>. My academic journey has solidified my core competencies in Problem Solving and Software Engineering. I possess a profound interest in harnessing the potential of Artificial Intelligence to tackle real-world complexities. <br>
-My quest for knowledge extends to diverse realms of development, and I am currently immersed in the dynamic landscape of full-stack application development. As I enhance my problem-solving acumen, I've successfully navigated through <b>350+</b> challenges on esteemed platforms such as LeetCode, Hackerrank, and CodeChef, with my tally continuously growing.
+My quest for knowledge extends to diverse realms of development, and I am currently learning full-stack application development. As I enhance my problem-solving acumen, I've successfully solved <b>350+</b> challenges on esteemed platforms such as LeetCode, Hackerrank, and CodeChef, with my tally continuously growing.
 </div> 
 <div align="justify"><br>
   
