@@ -15,7 +15,7 @@ My quest for knowledge extends to diverse realms of development, and I am curren
 
   -  📧 Mail me @ <u><b> dayaldevang@gmail.com  </b>
   
-  -  📧 Download my Resume at : <a href="https://drive.google.com/file/d/1b0hoKyu2SbB5d3ARBqduubdRoPVG4nXz/view?usp=sharing" alt="DevangDayal">Devang's Resume</a>
+  -  📧 Download my Resume at : <a href="https://drive.google.com/file/d/14_vCMo2JQPLMIuWarQmFAUkNkUsGzAvB/view?usp=sharing" alt="DevangDayal">Devang's Resume</a>
   
 <br>  
 </p>
