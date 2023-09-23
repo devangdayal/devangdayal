@@ -2,10 +2,16 @@
 
 ## 👩‍💻 What Am I Upto?
 <div align="justify"><br> 
-Hey! I'm <b>Devang Dayal</b>, a <b>B.Tech Computer Science graduate from Vellore Institute of Technology (VIT)</b>. My academic journey has solidified my core competencies in Problem Solving and Software Engineering. I possess a profound interest in harnessing the potential of Artificial Intelligence to tackle real-world complexities. <br>
-My quest for knowledge extends to diverse realms of development, and I am currently learning full-stack application development. As I enhance my problem-solving acumen, I've successfully solved <b>350+</b> challenges on esteemed platforms such as LeetCode, Hackerrank, and CodeChef, with my tally continuously growing.
+I am a passionate and versatile software developer with a Bachelor of Technology in Computer Science and Engineering, graduating in 2023 from VIT University. My technical toolkit includes Python, Java, C/C++, SQL, JavaScript, HTML/CSS, and a range of modern technologies like React.js, Next.js, Node.js, and various database systems like PostgreSQL, MongoDB, and MySQL. I'm well-versed in Git, and AWS, and follow best practices with a strong foundation in Object-Oriented Programming Paradigms.
+
+I hold certifications in C++ from N.I.I.T and have earned certificates in Machine Learning (ML), Deep Learning (DL), and Data Science from MathWorks. My academic journey has equipped me with the knowledge and skills needed to excel in the ever-evolving tech landscape.
+
+In addition to my formal education and certifications, I'm an avid problem solver, having tackled over 350 challenges on prestigious platforms such as LeetCode, Hackerrank, and CodeChef. This continuous journey of problem-solving not only sharpens my technical skills but also fuels my passion for innovation.
+
+I am actively engaged in full-stack application development, seeking opportunities to apply my knowledge and contribute to exciting projects. If you're looking for a dedicated and adaptable developer who thrives in dynamic environments, let's connect and explore how we can work together to achieve technical excellence.
 </div> 
 <div align="justify"><br>
+
   
 <b> We can connect and talk about Zombie Apocalypse! </b>
 <br> 
