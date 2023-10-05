@@ -8,7 +8,7 @@ I hold certifications in C++ from N.I.I.T and have earned certificates in Machin
 
 In addition to my formal education and certifications, I'm an avid problem solver, having tackled over 350 challenges on prestigious platforms such as LeetCode, Hackerrank, and CodeChef. This continuous journey of problem-solving not only sharpens my technical skills but also fuels my passion for innovation.
 
-I am actively engaged in full-stack application development, seeking opportunities to apply my knowledge and contribute to exciting projects. If you're looking for a dedicated and adaptable developer who thrives in dynamic environments, let's connect and explore how we can work together to achieve technical excellence.
+<b> Actively Looking for Software Development Roles. Do Connect to share any opportunity or piece of advice for my Career! </b>
 </div> 
 <div align="justify"><br>
 
