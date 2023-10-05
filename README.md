@@ -6,7 +6,7 @@ I am a passionate and versatile software developer with a Bachelor of Technology
 
 I hold certifications in C++ from N.I.I.T and have earned certificates in Machine Learning (ML), Deep Learning (DL), and Data Science from MathWorks. My academic journey has equipped me with the knowledge and skills needed to excel in the ever-evolving tech landscape.
 
-In addition to my formal education and certifications, I'm an avid problem solver, having tackled over 350 challenges on prestigious platforms such as LeetCode, Hackerrank, and CodeChef. This continuous journey of problem-solving not only sharpens my technical skills but also fuels my passion for innovation.
+In addition to my formal education and certifications, I'm an avid problem solver, having tackled over 450 challenges on prestigious platforms such as LeetCode, Hackerrank, and CodeChef. This continuous journey of problem-solving not only sharpens my technical skills but also fuels my passion for innovation.
 
 <b> Actively Looking for Software Development Roles. Do Connect to share any opportunity or piece of advice for my Career! </b>
 </div> 
