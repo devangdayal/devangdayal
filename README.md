@@ -94,6 +94,10 @@ I am actively engaged in full-stack application development, seeking opportuniti
 </div>
 -->
 
+## &#x1f4c8; LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/devangdayal?theme=wtf&font=Roboto%20Mono&ext=heatmap)
+
 ## &#x1f4c8; GitHub Stats
 <br>
 <a href="https://github.com/devangdayal">
