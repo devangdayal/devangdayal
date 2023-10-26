@@ -21,7 +21,7 @@ In addition to my formal education and certifications, I'm an avid problem solve
 
   -  📧 Mail me @ <u><b> dayaldevang@gmail.com  </b>
   
-  -  📧 Download my Resume at : <a href="https://drive.google.com/file/d/14_vCMo2JQPLMIuWarQmFAUkNkUsGzAvB/view?usp=sharing" alt="DevangDayal">Devang's Resume</a>
+  -  📧 Download my Resume at : <a href="https://drive.google.com/file/d/1Psk5RvAlivY7YiaMETz_E5sHyMhqCF-3/view?usp=sharing" alt="DevangDayal">Devang's Resume</a>
   
 <br>  
 </p>
