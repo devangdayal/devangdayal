@@ -19,7 +19,7 @@ In addition to my formal education and certifications, I'm an avid problem solve
   
   -  💻 Portfolio Website is available: https://devang-portfolio-website.web.app/
 
-  -  📧 Mail me @ <u><b> dayaldevang@gmail.com  </b>
+  -  📧 Mail me @ <u><b> devangdayal@gmail.com  </b>
   
   -  📧 Download my Resume at : <a href="https://drive.google.com/file/d/1NZxaYw8yrTQUCvXJ0E9dKAzJMJygTrDe/view?usp=sharing" alt="DevangDayal">Devang's Resume</a>
   
