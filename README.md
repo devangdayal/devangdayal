@@ -43,7 +43,6 @@ In addition to my formal education and certifications, I am an avid problem solv
 </div>
 
 ## 🔧 Technologies & Tools
- <br>
  
 <div align="center">
 <h3>Backend Tech & Tools
@@ -62,7 +61,8 @@ In addition to my formal education and certifications, I am an avid problem solv
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" title="MongoDB"/></code>
 	
 </div>
-
+ <br>
+ 
 <div align="center">
 <h3>Frontend Tech & Tools
 </h3>
@@ -79,7 +79,7 @@ In addition to my formal education and certifications, I am an avid problem solv
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/></code>
 
 </div>
-
+ <br>
 <div align="center">
 <h3>DevOps Tech & Tools
 </h3>
@@ -94,7 +94,7 @@ In addition to my formal education and certifications, I am an avid problem solv
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
 
 </div>
-
+ <br>
 <div align="center">
 <h3>Testing and QA Tech & Tools
 </h3>
