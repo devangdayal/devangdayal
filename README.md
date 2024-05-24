@@ -2,7 +2,7 @@
 
 ## 👩‍💻 What Am I Upto?
 <div align="justify"><br> 
-I am a passionate and versatile software developer with a Bachelor of Technology in Computer Science and Engineering, graduating in 2023 from VIT University. My technical toolkit includes Python, Java, C/C++, SQL, JavaScript and a range of modern technologies like <b>React.js, Next.js, Node.js,</b>b> and various database systems like <b>PostgreSQL, MongoDB, and MySQL</b>b>. I'm well-versed in <b>Git, AWS</b>b>, and follow best practices with a strong foundation in Object-Oriented Programming Paradigms.
+I am a passionate and versatile software developer with a Bachelor of Technology in Computer Science and Engineering, graduating in 2023 from VIT University. My technical toolkit includes Python, Java, C/C++, SQL, JavaScript and a range of modern technologies like <b>React.js, Next.js, Node.js,</b>b> and various database systems like <b>PostgreSQL, MongoDB, and MySQL</b>b>. I'm well-versed in <b>Git, AWS</b>, and follow best practices with a strong foundation in Object-Oriented Programming Paradigms.
 
 I hold certifications in C++ from N.I.I.T and have earned certificates in Machine Learning (ML), Deep Learning (DL), and Data Science from MathWorks. My academic journey has equipped me with the knowledge and skills needed to excel in the ever-evolving tech landscape.
 
