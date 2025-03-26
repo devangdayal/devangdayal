@@ -2,11 +2,11 @@
 
 ## 👩‍💻 What Am I Upto?
 <div align="justify"><br> 
-I am a passionate and versatile software developer with a Bachelor of Technology in Computer Science and Engineering, graduating in 2023 from VIT University. My technical toolkit includes Python, Java, C/C++, SQL, JavaScript and a range of modern technologies like <b>React.js, Next.js, Node.js,</b>b> and various database systems like <b>PostgreSQL, MongoDB, and MySQL</b>b>. I'm well-versed in <b>Git, AWS</b>, and follow best practices with a strong foundation in Object-Oriented Programming Paradigms.
+I am a passionate and versatile software developer with a Bachelor of Technology in Computer Science and Engineering, graduating in 2023 from VIT University. My technical toolkit includes Python, Java, C/C++, SQL, JavaScript and a range of modern technologies like <b>React.js, Next.js, Node.js,</b>b> and various database systems like <b>PostgreSQL, MongoDB, and MySQL</b>. I'm well-versed in <b>Git, AWS</b>, and follow best practices with a strong foundation in Object-Oriented Programming Paradigms.
 
 I hold certifications in C++ from N.I.I.T and have earned certificates in Machine Learning (ML), Deep Learning (DL), and Data Science from MathWorks. My academic journey has equipped me with the knowledge and skills needed to excel in the ever-evolving tech landscape.
 
-Currently, <b>I am an Associate Software Development Engineer (ASDE-1) at Publicis Sapient in Bengaluru</b>. I have completed my training period, earned the "Partnering for Client Impact" recognition, and have been selected as the Batch Lead for the entire Bootcamp Training. Through this role, <b>I have gained expertise in JavaScript, Java, Spring Boot, Spring JPA, Eureka Service Directory, Microservice architecture, Agile Methodology, JIRA, Apache Kafka, OpenFeign, React.js, React Testing, Jest, JUnit, Selenium and Behaviour Driven Development.</b>
+Currently, <b>I am an Associate Software Development Engineer (ASDE-2) at Publicis Sapient in Bengaluru</b>. I have completed my training period, earned the "Partnering for Client Impact" recognition, and have been selected as the Batch Lead for the entire Bootcamp Training. Through this role, <b>I have gained expertise in JavaScript, Java, Spring Boot, Spring JPA, Eureka Service Directory, Microservice architecture, Agile Methodology, JIRA, Apache Kafka, OpenFeign, React.js, React Testing, Jest, JUnit, Selenium and Behaviour Driven Development.</b>
 
 In addition to my formal education and certifications, I am an avid problem solver, having tackled over 700+ challenges on prestigious platforms such as LeetCode, HackerRank, and CodeChef. This continuous journey of problem-solving not only sharpens my technical skills but also fuels my passion for innovation.
 
