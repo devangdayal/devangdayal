@@ -1,4 +1,4 @@
-# 🚀 Devang Dayal | Associate Software Development Engineer 2 at Publicis Sapient
+# 🚀 Devang Dayal | Software Engineer @ Publicis Sapient
 
 I’m a passionate and versatile Software Engineer, currently working as an **Associate Software Development Engineer 2 (ASDE-2)** at **Publicis Sapient**, Bengaluru. I hold a **B.Tech in Computer Science and Engineering** from **VIT Chennai**, graduating in 2023.
 
