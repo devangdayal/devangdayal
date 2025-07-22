@@ -1,20 +1,46 @@
-# Hey! I'm Devang Dayal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30>
+# 🚀 Devang Dayal | Associate Software Development Engineer 2 at Publicis Sapient
 
-## 👩‍💻 What Am I Upto?
-<div align="justify"><br> 
-I am a passionate and versatile software developer with a Bachelor of Technology in Computer Science and Engineering, graduating in 2023 from VIT University. My technical toolkit includes Python, Java, C/C++, SQL, JavaScript and a range of modern technologies like <b>React.js, Next.js, Node.js,</b>b> and various database systems like <b>PostgreSQL, MongoDB, and MySQL</b>. I'm well-versed in <b>Git, AWS</b>, and follow best practices with a strong foundation in Object-Oriented Programming Paradigms.
+I’m a passionate and versatile Software Engineer, currently working as an **Associate Software Development Engineer 2 (ASDE-2)** at **Publicis Sapient**, Bengaluru. I hold a **B.Tech in Computer Science and Engineering** from **VIT Chennai**, graduating in 2023.
 
-I hold certifications in C++ from N.I.I.T and have earned certificates in Machine Learning (ML), Deep Learning (DL), and Data Science from MathWorks. My academic journey has equipped me with the knowledge and skills needed to excel in the ever-evolving tech landscape.
 
-Currently, <b>I am an Associate Software Development Engineer (ASDE-2) at Publicis Sapient in Bengaluru</b>. I have completed my training period, earned the "Partnering for Client Impact" recognition, and have been selected as the Batch Lead for the entire Bootcamp Training. Through this role, <b>I have gained expertise in JavaScript, Java, Spring Boot, Spring JPA, Eureka Service Directory, Microservice architecture, Agile Methodology, JIRA, Apache Kafka, OpenFeign, React.js, React Testing, Jest, JUnit, Selenium and Behaviour Driven Development.</b>
+## 🌟 Key Achievements
 
-In addition to my formal education and certifications, I am an avid problem solver, having tackled over 700+ challenges on prestigious platforms such as LeetCode, HackerRank, and CodeChef. This continuous journey of problem-solving not only sharpens my technical skills but also fuels my passion for innovation.
+- 🏆 **"Partnering for Client Impact" awardee** and **Batch Representative** during ASDE Bootcamp.
+- 👨‍💻 **Led development of `SDEHub`**, an internal craft enablement platform:
+  - Architected the database.
+  - Built backend services with **Kafka**, notification systems, and frontend components in **ReactJS**.
+  - Owned documentation and hosted final demos.
 
-<b>I am seeking new Software Development roles. Please feel free to connect with me to share any opportunities or career advice!</b>
+- ⚡ Post-Bootcamp, contributed to high-visibility, client-facing initiatives in the **Wealth & Asset Management** domain:
+  - Developed **responsive frontends** using **React.js**, **Next.js**, and **Tailwind CSS**.
+  - Integrated **Generative AI** features like Wilma Chat and built **RFP-specific UI/UX customizations**.
+  - Delivered live client demos to **SVP-level stakeholders** under tight deadlines.
 
-</div> 
-<div align="justify"><br>
+- 🧠 In the **Smart Data Quality (SDQ)** project:
+  - Led full-stack development with **Python**, **FastAPI**, **Langchain**, and **LangGraph**.
+  - Built GenAI-powered **SQL rule generators**, anomaly dashboards, and real-time validation with APIs like **Yahoo Finance** and **Polygon**.
 
+- 🔁 Designed end-to-end systems for **automated data validation**, **advisor productivity**, and **compliance workflows** using **LLMs and real-time APIs**.
+
+- 🧪 Prior experience includes building a **Live Attention Detection System** using **OpenCV** and **WebRTC**, enhancing engagement in virtual classrooms.
+
+
+## 💻 Technical Toolkit
+
+- **Languages**: Python, Java, C/C++, JavaScript, SQL  
+- **Frontend**: React.js, Next.js, Tailwind CSS, Redux  
+- **Backend**: FastAPI, Spring Boot, Kafka, OpenFeign, Node.js  
+- **Databases**: PostgreSQL, MongoDB, MySQL  
+- **Testing**: React Testing Library, Jest, JUnit, Selenium, BDD  
+- **AI/ML**: Langchain, LangGraph, OpenCV, Generative AI APIs  
+- **Tools & Platforms**: Git, AWS, JIRA, Agile, WebRTC, Docker  
+
+
+## 🧠 Certifications & Problem-Solving
+
+- Certified in **C++ (NIIT)**, **Machine Learning**, **Deep Learning**, and **Data Science** (MathWorks).  
+- Solved **700+ coding challenges** on platforms like **LeetCode**, **HackerRank**, and **CodeChef**.  
+- Strong foundation in **OOP**, **microservices**, and **software design principles**.
   
 <b> We can connect and talk about Zombie Apocalypse! </b>
 <br> 
