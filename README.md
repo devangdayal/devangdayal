@@ -10,11 +10,11 @@ What I've built:\
 → Household Intelligence Engine — ML + Deep Learning churn detection, ~93–95% recall across 2,000+ records\
 → Agentic AI Data Platform — LangChain + LangGraph agents auto-validating enterprise financial datasets\
 → GenAI Advisory Platform — conversational portfolio assistant, live on AWS Marketplace\
-→ Craft Enablement Platform — full-stack, DB to deployment, recognized with client impact award\
+→ Craft Enablement Platform — full-stack, DB to deployment, recognized with client impact award
 
-· AWS CCP Certified · IBM Full Stack Certified · 700+ DSA problems solved\
+· AWS CCP Certified · IBM Full Stack Certified · 700+ DSA problems solved
 
-We can connect about new opportunity or adventures or just talk about Zombie Apocalypse! → dayaldevang@gmail.com\
+We can connect about new opportunity or adventures or just talk about Zombie Apocalypse! → dayaldevang@gmail.com
 
 ## TECHNICAL SKILLS
 - Languages : Python, JavaScript, TypeScript, Java,
