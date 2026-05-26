@@ -2,7 +2,7 @@
 
 I build intelligent systems that don't just work — they deliver.
 
-Two years in, I've shipped an Agentic AI data validation platform, a household intelligence engine hitting ~93–95% recall, and a GenAI platform live on AWS Marketplace — all for enterprise financial services clients at Publicis Sapient.
+Few years in, I've shipped an Agentic AI data validation platform, a household intelligence engine hitting ~93–95% recall, and a GenAI platform live on AWS Marketplace — all for enterprise financial services clients at Publicis Sapient.
 
 My edge: I own the AI layer, wire the full-stack application, and drive delivery end to end — from LangGraph agent pipelines to React dashboards to live stakeholder demos.
 
