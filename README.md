@@ -12,7 +12,7 @@ What I've built:\
 → GenAI Advisory Platform — conversational portfolio assistant, live on AWS Marketplace\
 → Craft Enablement Platform — full-stack, DB to deployment, recognized with client impact award
 
-· AWS CCP Certified · IBM Full Stack Certified · 700+ DSA problems solved
+· AWS CCP Certified · IBM Full Stack Certified · In-Progress for AWS Associate Developer Certification
 
 We can connect about new opportunity or adventures or just talk about Zombie Apocalypse! → dayaldevang@gmail.com
 
