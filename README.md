@@ -13,19 +13,18 @@ We can connect about new opportunity or adventures or just talk about Zombie Apo
 
 ## TECHNICAL SKILLS
 - Languages : Python, JavaScript, TypeScript, Java,
-- AI / ML : Generative AI, Agentic AI, Machine Learning, Deep Learning, Statistical Analysis, Behavioral Analytics, Predictive Modeling
-- AI Frameworks : LangChain, LangGraph, Crew AI, LLM Agents, Prompt Engineering
 - Backend : FastAPI, NodeJS, REST APIs, Microservices, Spring Boot, Maven, Poetry
 - Frontend : ReactJS, Next.js, Shadcn, TailwindCSS,
 - Data Systems : PostgreSQL, MongoDB, SQL, NoSQL, Databricks, PySpark
-- Cloud & Tools : AWS (API Gateway, Lambda, S3), Kafka, Git, Figma
+- Cloud & Tools : AWS, Kafka, Git, Figma
+- AI / ML : Generative AI, Agentic AI, Machine Learning, Deep Learning, Statistical Analysis, Behavioral Analytics, Predictive Modeling
+- AI Frameworks : LangChain, LangGraph, Crew AI, LLM Agents, Prompt Engineering
 
 ## CERTIFICATIONS
 - AWS Certified Cloud Practitioner
 - IBM Full Stack Software Development Certificate
 - 
 ## 🐍 Contribution Snake
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
