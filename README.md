@@ -1,11 +1,6 @@
 # 🚀 Devang Dayal | Software Engineer @ Publicis Sapient
 
 I build intelligent systems that don't just work — they deliver.
-
-Few years in, I've shipped an Agentic AI data validation platform, a Financial Client intelligence engine hitting ~93–95% recall, and a GenAI platform live on AWS Marketplace — all for enterprise financial services clients at Publicis Sapient.
-
-My edge: I own the AI layer, wire the full-stack application, and drive delivery end to end — from LangGraph agent pipelines to React dashboards to live stakeholder demos.
-
 What I've built:\
 → Financial Client Intelligence Engine — ML + Deep Learning churn detection, ~93–95% recall across 2,000+ records\
 → Agentic AI Data Platform — LangChain + LangGraph agents auto-validating enterprise financial datasets\
@@ -41,3 +36,5 @@ We can connect about new opportunity or adventures or just talk about Zombie Apo
  <!-- <a href="https://www.hackerrank.com/devangdayal?hr_r=1"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>  -->
 
 </div>
+
+
