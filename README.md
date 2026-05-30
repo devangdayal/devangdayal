@@ -22,8 +22,24 @@ We can connect about new opportunity or adventures or just talk about Zombie Apo
 
 ## CERTIFICATIONS
 - AWS Certified Cloud Practitioner
-- IBM Full Stack Software Development Certificate 
+- IBM Full Stack Software Development Certificate
+- 
+## 🐍 Contribution Snake
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/devangdayal/devangdayal/docs/github-contrib-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/devangdayal/devangdayal/docs/github-contrib-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/devangdayal/devangdayal/docs/github-contrib-snake.svg"
+  />
+</picture>
 
 ## 📱 Connect Me At
 
