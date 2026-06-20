@@ -23,7 +23,7 @@ We can connect about new opportunity or adventures or just talk about Zombie Apo
 ## CERTIFICATIONS
 - AWS Certified Cloud Practitioner
 - IBM Full Stack Software Development Certificate
-- 
+
 ## 🐍 Contribution Snake
 <picture>
   <source
